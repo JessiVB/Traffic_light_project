@@ -1,4 +1,6 @@
 Traffic Light JS
+
+codepen version: https://codepen.io/jessivb/pen/VNYyXE#0
 ----------------
 
 
